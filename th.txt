@@ -1,0 +1,113 @@
+TASK1:
+
+create Student Program
+
+BaseDo  --> city,state
+
+		-->inheritance
+		
+Student  -->id,name,rno,marks
+
+	1)getSData
+	2)printSdtaa
+	3)search
+	4)sort
+
+
+StudentClient (main)
+
+		3 student
+		
+		
+String 
+
+check if it's palindrom or not  NAMAN
+
+input from user untill string is palindrom;
+
+input from user 5 string is palindrom;
+
+a y    
+jay n
+naman y
+
+
+palindrom[a,naman,5]
+non[jay]
+
+para == 'c'
+
+repete count--->
+
+repted element -> replace-->
+
+				Exception     Error
+ logical problem,						 syntex -> ;,();,
+ 
+ 						Throable (c)
+ 						
+    Exception								    Error 
+	   RuntimeException												no child
+	   
+	   
+	   
+2 type of exception are there....
+
+compile time exception / checked exception
+runtime exception / unchecked exception
+
+
+we need to handle                solve.... 
+
+
+try catch and finally block and throws keyword
+
+Arrayindexout of bound
+String index outof bound...
+
+			/////////////////////////////////////////////////////////////////////////////////////////////
+			
+			1)InputStream
+			2)OutputStream
+			
+FILE TYPE:
+
+Byte Stream
+
+1_FIleInputStrean
+2)Bufferd INputStream
+3)inputSTream
+4)PrintStream
+5)OutStream
+
+
+Char Stream
+
+BufferedReader
+FileReader
+InputstreamReader
+OutputStream Reader
+Readr
+PrintWriter
+Writer
+FileWriter
+BufferdWriter
+
+
+Abs path
+
+relative path
+C:\Program Files\Java\jdk1.8.0_291\bin
+..\ java
+
+//no of palindrom count....
+palindrom print -->
+write
+[] --> store..
+
+
+
+			
+
+		
+
